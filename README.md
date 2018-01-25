@@ -2,6 +2,8 @@
 
 Welcome to the Open Government Partnership \(OGP\), a network of city governments working on projects together.
 
+---
+
 ## Mission Statement
 
 _**City governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money.**_
@@ -72,13 +74,17 @@ List of projects that are being reviewed to see if they can be included in OGP.
 
 * Twitter
 
-  * [@GovInTheOpen](https://twitter.com/GovInTheOpen) \(coming soon\)
+  * [@GovInTheOpen](https://twitter.com/GovInTheOpen) 
 
 * Organizer
 
   * Michael Schnuerle, Office of Civic Innovation, OPI, Mayor's Office, Louisville Metro, KY. 
   * Email michael.schnuerle at louisvilleky.gov. 
   * Twitter [@LouDataOfficer](https://twitter.com/LouDataOfficer)
+
+---
+
+#### More Stodgy Logo, If You Must
 
 ## ![](/assets/OGP-Text.png)
 
