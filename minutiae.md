@@ -6,7 +6,7 @@ Thanks to Ed Blayney and the Innovation Office for the feedback.
 
 ## Name Background
 
-Started as **Gov In The Open**, then this was part of the refinement process for the name.  I wanted it to be something broad but descriptive, not taken, and with a fine acronym. 
+Started as **Gov In The Open**, then this was part of the refinement process for the name.  I wanted it to be something broad but descriptive, not taken, and with a fine acronym.
 
 ### Other Potential Names
 
@@ -50,7 +50,7 @@ Started as **Gov In The Open**, then this was part of the refinement process for
 
 * Results, Outcomes, Actions, Projects, Impactful
 
-* Smart City, Open Source, deployable-code   
+* Smart City, Open Source, deployable-code
 
 ### Logo
 
@@ -62,22 +62,15 @@ I wanted it to be friendly and accessible, not governmental.  The name can commu
 
 **Ideas**: For ship: all hands on Deck, Mast, flag, masthead, sailing seas, forecastle, crew
 
-
-
 #### Logo and Text Result
 
-Here is what I came up working on it one night.  It could be improved...
+Here is what I came up working on it one night.  It could be improved...  I wanted a different kind of ship \(eg older with about 4 sails\), and had an idea to split the image in the logo into 3 parts/slices \(blueprint/sketch, black and white ink, and final color, eg, like we are building something\) but that proved to be too much.
 
-The OGP letters are custom made, inspired by Century Gothic \(which you see on the Open Government Partnership logo text on the home page\).
+The OGP letters are custom made, inspired by Century Gothic \(which you see on the Open Government Partnership logo text on the home page\).  Had a version where the O G and P overlapped each other with breaks and over/underpasses.
 
- ![](/assets/OGP-Text-Color-Boat.png)
 
-![](/assets/OGP-Text-Color-Boat.png)
 
-![](/assets/OGP-Text-Color-Boat.png)
 
-![](/assets/OGP-Color.png)![](/assets/OGP-Black.png)![](/assets/IslandCrop.png)
 
-  
-
+![](/assets/OGP-Text-Color-Boat.png)![](/assets/OGP-Color.png)![](/assets/OGP-Black.png)![](/assets/IslandCrop.png)
 

@@ -24,11 +24,11 @@ _**City governments pooling technical talent to collaborate on projects with rep
 
 * Outside companies can help support/fund/sponsor
 
-## 
+---
 
 ## Project Portfolio
 
-### Waze CCP Processor
+### 1 Waze CCP Processor
 
 Allows traffic teams within cities to use make use of data from Waze's CCP program.
 
@@ -36,25 +36,46 @@ Allows traffic teams within cities to use make use of data from Waze's CCP progr
 
 _Collaborating Cities:_ [github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)
 
-### VizWit
+### 2 VizWit
 
 Data viz platform for multiple open data portals.
 
 **Code**: [github.com/timwis/vizwit](https://github.com/timwis/vizwit)
 
-## 
+---
+
+## Projects in Review
+
+List of projects that are being reviewed to see if they can be included in OGP.
+
+### IFTTT for Cities
+
+**Code**: [github.com/LouisvilleMetro/IFTTT-Smart-Louisville](https://github.com/LouisvilleMetro/IFTTT-Smart-Louisville)
+
+### Zotero Metadata Translator
+
+**Code**: [zotero.org/support/dev/translators](https://www.zotero.org/support/dev/translators)
+
+---
 
 ## Similar Organizations
 
 [Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGP, but has a much broader in focus and with just a few US cities invloved.
 
-## 
+---
 
 ## Connect with ODP
 
-* Slack Channel 
+* Slack Channel
+
   * [govintheopen.slack.com](https://govintheopen.slack.com)
+
+* Twitter
+
+  * [@GovInTheOpen](https://twitter.com/GovInTheOpen) \(coming soon\)
+
 * Organizer
+
   * Michael Schnuerle, Office of Civic Innovation, OPI, Mayor's Office, Louisville Metro, KY. 
   * Email michael.schnuerle at louisvilleky.gov. 
   * Twitter [@LouDataOfficer](https://twitter.com/LouDataOfficer)
