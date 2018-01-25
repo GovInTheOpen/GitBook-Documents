@@ -6,8 +6,6 @@ Welcome to the Open Government Partnership \(OGP\), a network of city government
 
 _**City governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money.**_
 
-
-
 ![](/assets/OGP-Text-Logo-Boat.png)
 
 ## Key Features and Collaboration Requirements
@@ -48,7 +46,7 @@ Data viz platform for multiple open data portals.
 
 ## Similar Organizations
 
-[Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGP.
+[Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGP, but has a much broader in focus and with just a few US cities invloved.
 
 ## 
 
