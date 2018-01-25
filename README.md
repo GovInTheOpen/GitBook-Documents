@@ -30,6 +30,8 @@ _**City governments pooling technical talent to collaborate on projects with rep
 
 ## Project Portfolio
 
+The idea is a **curated** list of well **documented** and **reproducible** projects that improves their discoverability and fosters collaboration.
+
 ### 1 Waze CCP Processor
 
 Allows traffic teams within cities to use make use of data from Waze's CCP program.

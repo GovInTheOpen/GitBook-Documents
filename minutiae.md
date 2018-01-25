@@ -70,3 +70,5 @@ The OGP letters are custom made, inspired by Century Gothic \(which you see on t
 
 ![](/assets/OGP-Text-Color-Boat.png)![](/assets/OGP-Color.png)![](/assets/OGP-Black.png)![](/assets/IslandCrop.png)
 
+Some parts of the vector artwork came from [Freepik](https://www.freepik.com).
+
