@@ -1,14 +1,12 @@
 # Open Government Partnership
 
-Welcome to the Open Government Partnership \(OGP\), a network of city governments working on projects together.  
+Welcome to the Open Government Partnership \(OGP\), a network of city governments working on projects together.
 
 ## Mission Statement
 
 _**City governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money.**_
 
-|  | ![](/assets/OGP-Text-Logo-Boat.png) |  |
-| :--- | :--- | :--- |
-
+![](/assets/OGP-Text-Logo-Boat.png)
 
 ## Key Features and Collaboration Requirements
 
@@ -26,20 +24,39 @@ _**City governments pooling technical talent to collaborate on projects with rep
 
 * Outside companies can help support/fund/sponsor
 
+## 
+
 ## Project Portfolio
 
 ### Waze CCP Processor
 
 Allows traffic teams within cities to use make use of data from Waze's CCP program.
 
-Code: [github.com/LouisvilleMetro/WazeCCPProcessor](https://github.com/LouisvilleMetro/WazeCCPProcessor)
+**Code**: [github.com/LouisvilleMetro/WazeCCPProcessor](https://github.com/LouisvilleMetro/WazeCCPProcessor)
+
+_Collaborating Cities:_ [github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)
 
 ### VizWit
 
 Data viz platform for multiple open data portals.
 
-Code: [github.com/timwis/vizwit](https://github.com/timwis/vizwit)
+**Code**: [github.com/timwis/vizwit](https://github.com/timwis/vizwit)
 
-  
+
+
+## Similar Organizations 
+
+[Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGP.  
+
+
+
+## ![](/assets/OGP-Text.png)
+
+
+
+
+
+
+
 
 
