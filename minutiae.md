@@ -64,13 +64,9 @@ I wanted it to be friendly and accessible, not governmental.  The name can commu
 
 #### Logo and Text Result
 
-Here is what I came up working on it one night.  It could be improved...  I wanted a different kind of ship \(eg older with about 4 sails\), and had an idea to split the image in the logo into 3 parts/slices \(blueprint/sketch, black and white ink, and final color, eg, like we are building something\) but that proved to be too much.
+Here is what I came up working on it one night.  It could be improved...  I wanted a different kind of ship \(eg older with about 4 sails\), and had an idea to split the image in the logo into 3 parts/slices \(blueprint/sketch, black and white ink, and final color, eg, like we are building something\) but that proved to be too much.  Yes, it looks like the sails are on backwards - the jib is over the stern and the boom over the bow for some reason \(Ed pointed that out\) - I'll fix it on the next iteration.
 
 The OGP letters are custom made, inspired by Century Gothic \(which you see on the Open Government Partnership logo text on the home page\).  Had a version where the O G and P overlapped each other with breaks and over/underpasses.
-
-
-
-
 
 ![](/assets/OGP-Text-Color-Boat.png)![](/assets/OGP-Color.png)![](/assets/OGP-Black.png)![](/assets/IslandCrop.png)
 
