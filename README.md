@@ -6,6 +6,8 @@ Welcome to the Open Government Partnership \(OGP\), a network of city government
 
 _**City governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money.**_
 
+
+
 ![](/assets/OGP-Text-Logo-Boat.png)
 
 ## Key Features and Collaboration Requirements
@@ -42,21 +44,24 @@ Data viz platform for multiple open data portals.
 
 **Code**: [github.com/timwis/vizwit](https://github.com/timwis/vizwit)
 
+## 
 
+## Similar Organizations
 
-## Similar Organizations 
+[Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGP.
 
-[Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGP.  
+## 
 
+## Connect with ODP
 
+* Slack Channel 
+  * [govintheopen.slack.com](https://govintheopen.slack.com)
+* Organizer
+  * Michael Schnuerle, Office of Civic Innovation, OPI, Mayor's Office, Louisville Metro, KY. 
+  * Email michael.schnuerle at louisvilleky.gov. 
+  * Twitter [@LouDataOfficer](https://twitter.com/LouDataOfficer)
 
 ## ![](/assets/OGP-Text.png)
-
-
-
-
-
-
 
 
 
