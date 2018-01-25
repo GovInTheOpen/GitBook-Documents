@@ -54,7 +54,7 @@ Started as **Gov In The Open**, then this was part of the refinement process for
 
 ### Logo
 
-I wanted it to be friendly and accessible, not governmental.  The name can communicate the purpose, but the logo should communicate the feeling.  Something outdoors, that implied collaboration, a journey, and no government buildings!
+What, it's a sailboat in a sunset, how does that relate to city collaboration??  There is a city in the background...  I wanted the logo to be friendly and accessible, not governmental.  The name can communicate the purpose, but the logo should communicate the feeling.  Something outdoors, that implied collaboration, a journey, and no government buildings!  The boat implies we are working as a crew to get somewhere, each doing the parts that we can do.
 
 **No**: Cloud, Gov Building, CodeData
 
