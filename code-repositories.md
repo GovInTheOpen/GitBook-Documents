@@ -2,7 +2,9 @@
 
 List of cities that have public code repositories.
 
-* \(coming soon\)
+* Denver, CO - [github.com/CityofDenver](https://github.com/CityofDenver)
+* Louisville, KY - [github.com/LouisvilleMetro](https://github.com/LouisvilleMetro)
+* _\(more coming soon\)_
 
 
 
