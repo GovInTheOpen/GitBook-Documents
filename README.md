@@ -6,9 +6,9 @@ Welcome to the Open Government Partnership \(OGP\), a network of city government
 
 ## Mission Statement
 
-_**City governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money.**_
+_**City governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money**_
 
-![](/assets/OGP-Text-Logo-Boat.png)
+![](/assets/Selection_018.jpg)
 
 ## Key Features and Collaboration Requirements
 
