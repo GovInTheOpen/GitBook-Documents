@@ -8,7 +8,7 @@ Welcome to the Open Government Partnership \(OGP\), a network of city government
 
 _**City governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money.**_
 
-![](/assets/OGP-Text-Logo-Boat.png)
+<img src="https://open-government-partnership.gitbooks.io/welcome/content/assets/OGP-Text-Logo-Boat.png" width="400" />
 
 ## Key Features and Collaboration Requirements
 
