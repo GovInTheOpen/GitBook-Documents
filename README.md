@@ -68,7 +68,7 @@ List of projects that are being reviewed to see if they can be included in OGP.
 
 ---
 
-## Connect with ODP
+## Connect with OGP
 
 * Slack Channel
 
