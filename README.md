@@ -64,7 +64,7 @@ List of projects that are being reviewed to see if they can be included in OGP.
 
 ## Similar Organizations
 
-[Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGP, but has a much broader in focus and with just a few US cities invloved.
+[Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGP.  CAN has a much broader focus and just a few US cities are involved.
 
 ---
 
