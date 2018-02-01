@@ -30,7 +30,7 @@ Started as **Gov In The Open**, then this was part of the refinement process for
 
 10. Open Government Coalition \(OGC, The Coalition\)
 
-11. **Open Government Partnership** \(ship analogy/logo since it has ship in it\)  The Winner
+11. **Open Government Partnership** \(ship analogy/logo since it has ship in it\)  _The Winner -_ though is [kinda taken](https://www.google.com/search?q=open+government+partnership)
 
 12. Municipal Open Partnership \(MOP, ship, MuniOpPa\)
 
@@ -64,7 +64,11 @@ What, it's a sailboat in a sunset, how does that relate to city collaboration?? 
 
 #### Logo and Text Result
 
-Here is what I came up working on it one night.  It could be improved...  I wanted a different kind of ship \(eg older with about 4 sails\), and had an idea to split the image in the logo into 3 parts/slices \(blueprint/sketch, black and white ink, and final color, eg, like we are building something\) but that proved to be too much.  Yes, it looks like the sails are on backwards - the jib is over the stern and the boom over the bow for some reason \(Ed pointed that out\) - I'll fix it on the next iteration.
+Here is what I came up working on it one night.  It could be improved...  I wanted a different kind of ship \(eg older with about 4 sails\), and had an idea to split the image in the logo into 3 parts/slices \(blueprint/sketch, black and white ink, and final color, eg, like we are building something\) but that proved to be too much.  
+
+Here are the** **[**source logo files**](https://www.dropbox.com/sh/deiu56ry1dphuh9/AACQtoiSL5PxmBzIxKXwbuPwa?dl=0)** **for anyone who has time to edit.
+
+Yes, it looks like the sails are on backwards - the jib is over the stern and the boom over the bow for some reason \(Ed pointed that out\) - I'll fix it on the next iteration, maybe with a better boat.
 
 The OGP letters are custom made, inspired by Century Gothic \(which you see on the Open Government Partnership logo text on the home page\).  Had a version where the O G and P overlapped each other with breaks and over/underpasses.
 
