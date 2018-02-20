@@ -1,6 +1,6 @@
-# Open Government Partnership
+# Open Government Coalition
 
-Welcome to the Open Government Partnership \(OGP\), a network of city governments working on projects together.
+Welcome to the Open Government Coalition \(OGC\), a network of city governments working on projects together.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to the Open Government Partnership \(OGP\), a network of city government
 
 _**City governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money**_
 
-![](/assets/Selection_018.jpg)
+![](/assets/OGC-Web-Banner.png)
 
 ## Key Features and Collaboration Requirements
 
@@ -88,7 +88,7 @@ List of projects that are being reviewed to see if they can be included in OGP.
 
 #### More Stodgy Logo, If You Must
 
-## ![](/assets/OGP-Text.png)
+## ![](/assets/OGC-Text.png)
 
 
 
