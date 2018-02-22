@@ -1,12 +1,45 @@
-# City Code Repositories
+# Code Repositories
 
-List of cities that have official public code repositories.
+## US Cities
 
-* Bloomington, IN - [github.com/City-of-Bloomington](https://github.com/City-of-Bloomington)
-* Denver, CO - [github.com/CityofDenver](https://github.com/CityofDenver)
+List of cities that have official public code repositories.  
 
-* Louisville, KY - [github.com/LouisvilleMetro](https://github.com/LouisvilleMetro)
+See the [GitHub Community page for a City list](https://government.github.com/community/#us-city) \(though these are mostly Code for America groups\).  Here are a few involved in the OGC.
 
+* Anchorage, AK - ?
+* Bloomington, IN - [City-of-Bloomington](https://github.com/City-of-Bloomington)
+* Boston, MA - [CityOfBoston](https://github.com/CityOfBoston/boston.gov)
+* Denver, CO - [CityofDenver](https://github.com/CityofDenver)
+* Los Angeles, CA - [cityoflosangeles](https://github.com/cityoflosangeles)
+
+* Louisville, KY - [LouisvilleMetro](https://github.com/LouisvilleMetro)
+
+* New Orleans, LA - ?
+
+* New York, NY - [CityOfNewYork](https://github.com/CityOfNewYork)
+
+* Philadelphia, PA - [CityOfPhiladelphia](https://github.com/CityOfPhiladelphia)
+
+* Pittsburgh, PA - ?
+
+* _\(more coming soon\)_
+
+## US Counties
+
+List of cities that have official public code repositories.  
+
+See the [GitHub Community page for a County list](https://government.github.com/community/#us-county).  Here are a few involved in the OGC.
+
+* Baltimore County, MD - [baltimorecounty](https://github.com/baltimorecounty)
+* _\(more coming soon\)_
+
+## US States
+
+List of cities that have official public code repositories.  
+
+See the [GitHub Community page for a State list](https://government.github.com/community/#us-states).  Here are a few involved in the OGC.
+
+* Connecticut - [CTOpenData](https://github.com/CTOpenData)
 * _\(more coming soon\)_
 
 
