@@ -2,7 +2,7 @@
 
 ## US Cities
 
-List of cities that have official public code repositories.  
+List of cities that have official public code repositories.
 
 See the [GitHub Community page for a City list](https://government.github.com/community/#us-city) \(though these are mostly Code for America groups\).  Here are a few involved in the OGC.
 
@@ -20,13 +20,13 @@ See the [GitHub Community page for a City list](https://government.github.com/co
 
 * Philadelphia, PA - [CityOfPhiladelphia](https://github.com/CityOfPhiladelphia)
 
-* Pittsburgh, PA - ?
+* Pittsburgh, PA - [CityofPittsburgh](https://github.com/CityofPittsburgh)
 
 * _\(more coming soon\)_
 
 ## US Counties
 
-List of cities that have official public code repositories.  
+List of cities that have official public code repositories.
 
 See the [GitHub Community page for a County list](https://government.github.com/community/#us-county).  Here are a few involved in the OGC.
 
@@ -35,7 +35,7 @@ See the [GitHub Community page for a County list](https://government.github.com/
 
 ## US States
 
-List of cities that have official public code repositories.  
+List of cities that have official public code repositories.
 
 See the [GitHub Community page for a State list](https://government.github.com/community/#us-states).  Here are a few involved in the OGC.
 
