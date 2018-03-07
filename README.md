@@ -30,7 +30,7 @@ _**City governments pooling technical talent to collaborate on projects with rep
 
 ## Project Portfolio
 
-The idea is a **curated** list of well **documented** and **reproducible** projects that improves their discoverability and fosters collaboration.
+This is a **curated** list of well **documented** and **reproducible** projects that improves their discoverability and fosters collaboration.
 
 ### 1 Waze CCP Processor
 
@@ -50,7 +50,7 @@ Data viz platform for multiple open data portals.
 
 ## Projects in Review
 
-List of projects that are being reviewed to see if they can be included in OGP.
+List of projects that are being reviewed to see if they can be included in OGC.
 
 ### 1 SpeedUpYourCity
 
@@ -74,11 +74,11 @@ Crowd sourced internet speed tests that creates a public map and a open dataset.
 
 ## Similar Organizations
 
-[Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGP.  CAN has a much broader focus and just a few US cities are involved.
+[Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGC.  CAN has a much broader focus and just a few US cities are involved.
 
 ---
 
-## Connect with OGP
+## Connect with OGC
 
 * Slack Channel
 
