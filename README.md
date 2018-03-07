@@ -52,6 +52,16 @@ Data viz platform for multiple open data portals.
 
 List of projects that are being reviewed to see if they can be included in OGP.
 
+### SpeedUpYourCity
+
+Crowd sourced internet speed tests that creates a public map and a open dataset.
+
+**Example Implementation**: [speeduplouisville.com](https://www.speeduplouisville.com/)
+
+**Example raw data and downloads**: [speedupsanjose.com/all-results](https://www.speedupsanjose.com/all-results)
+
+**Code:** _Soon to be published _
+
 ### IFTTT for Cities
 
 **Code**: [github.com/LouisvilleMetro/IFTTT-Smart-Louisville](https://github.com/LouisvilleMetro/IFTTT-Smart-Louisville)
