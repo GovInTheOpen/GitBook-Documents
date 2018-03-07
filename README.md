@@ -52,7 +52,7 @@ Data viz platform for multiple open data portals.
 
 List of projects that are being reviewed to see if they can be included in OGP.
 
-### SpeedUpYourCity
+### 1 SpeedUpYourCity
 
 Crowd sourced internet speed tests that creates a public map and a open dataset.
 
@@ -62,11 +62,11 @@ Crowd sourced internet speed tests that creates a public map and a open dataset.
 
 **Code:** _Soon to be published _
 
-### IFTTT for Cities
+### 2 IFTTT for Cities
 
 **Code**: [github.com/LouisvilleMetro/IFTTT-Smart-Louisville](https://github.com/LouisvilleMetro/IFTTT-Smart-Louisville)
 
-### Zotero Metadata Translator
+### 3 Zotero Metadata Translator
 
 **Code**: [zotero.org/support/dev/translators](https://www.zotero.org/support/dev/translators)
 
