@@ -1,12 +1,12 @@
 # Open Government Coalition
 
-Welcome to the Open Government Coalition \(OGC\), a network of city governments working on projects together.
+Welcome to the Open Government Coalition \(OGC\), a network of government agencies working on projects together.
 
 ---
 
 ## Mission Statement
 
-_**City governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money**_
+_**Governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money**_
 
 ![](/assets/OGC-Web-Banner.png)
 
@@ -14,7 +14,7 @@ _**City governments pooling technical talent to collaborate on projects with rep
 
 * _Code_/Programming: _open source_ and publicly developed
 
-* Benefits _multiple_ cities at once
+* Benefits _multiple_ governments at once
 
 * Can be _easily_ deployed and is well _documented_
 
