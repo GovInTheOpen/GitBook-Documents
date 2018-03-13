@@ -12,23 +12,23 @@ _**City governments pooling technical talent to collaborate on projects with rep
 
 ## Key Features and Collaboration Requirements
 
-* Code/Programming: open source and publicly developed
+* _Code_/Programming: _open source_ and publicly developed
 
-* Benefits multiple cities at once
+* Benefits _multiple_ cities at once
 
-* Can be easily deployed and is well documented
+* Can be _easily_ deployed and is well _documented_
 
-* Likely deployed to and integrated with existing city cloud accounts
+* Likely deployed to and integrated with existing city _cloud_ accounts
 
 * May deal with sensitive data or data partnerships
 
-* Pools our limited resources
+* Pools our limited _resources_
 
-* Saves money, quicker time-to-live
+* Saves _money_, quicker time-to-live
 
-* No RFPs needed - in house solutions
+* No _RFPs_ needed - in house solutions
 
-* Outside companies can help support/fund/sponsor
+* Outside companies can help _support/fund/sponsor_
 
 ---
 
@@ -58,7 +58,7 @@ List of projects that are being reviewed to see if they can be included in OGC.
 
 ### 1 SpeedUpYourCity
 
-Crowd sourced internet speed tests that creates a public map and a open dataset.
+[Crowd sourced internet speed](http://www.govtech.com/Whats-the-ROI-on-Local-Broadband.html) tests that creates a public map and a open dataset.
 
 **Example Implementation**: [speeduplouisville.com](https://www.speeduplouisville.com/)
 
