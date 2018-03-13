@@ -18,6 +18,10 @@ _**City governments pooling technical talent to collaborate on projects with rep
 
 * Can be easily deployed and is well documented
 
+* Likely deployed to and integrated with existing city cloud accounts
+
+* May deal with sensitive data or data partnerships
+
 * Pools our limited resources
 
 * Saves money, quicker time-to-live
@@ -74,7 +78,7 @@ Crowd sourced internet speed tests that creates a public map and a open dataset.
 
 ## Similar Organizations
 
-[Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGC.  CAN has a much broader focus and just a few US cities are involved.
+* [Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGC.  CAN has a much broader focus and just a few US cities are involved.  OGC should have more cities, states, countries and is focused on code projects.
 
 ---
 
