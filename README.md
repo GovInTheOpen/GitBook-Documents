@@ -6,7 +6,7 @@ Welcome to the Open Government Coalition \(OGC\), a network of government agenci
 
 ## Mission Statement
 
-_**Governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money**_
+_**Governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money.**_
 
 ![](/assets/OGC-Web-Banner.png)
 
@@ -22,13 +22,13 @@ _**Governments pooling technical talent to collaborate on projects with reproduc
 
 * May deal with sensitive data or data partnerships
 
-* Pools our limited _resources_
+* Pools our limited and specialized internal tech _resources_
 
 * Saves _money_, quicker time-to-live
 
 * No _RFPs_ needed - in house solutions
 
-* Outside companies can help _support/fund/sponsor_
+* Outside organizations can help develop/support/fund/sponsor
 
 ---
 
