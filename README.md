@@ -44,7 +44,7 @@ Allows traffic teams within cities to use make use of data from Waze's CCP progr
 
 _Collaborating Cities:_ [github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)
 
-_Collaborating Sponsors: _Waze, Amazon AWS
+_Collaborating Sponsors_: Waze, Amazon AWS
 
 ### 2 VizWit
 
