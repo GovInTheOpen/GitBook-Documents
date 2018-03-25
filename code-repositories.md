@@ -2,7 +2,7 @@
 
 ## US Cities
 
-List of cities that have official public code repositories.
+List of cities that have official public code repositories.  Contact us on Twitter or Slack to get your gov added.
 
 See the [GitHub Community page for a City list](https://government.github.com/community/#us-city) \(though these are mostly Code for America groups\).  Here are a few involved in the OGC.
 
