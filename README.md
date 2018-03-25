@@ -44,11 +44,15 @@ Allows traffic teams within cities to use make use of data from Waze's CCP progr
 
 _Collaborating Cities:_ [github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)
 
+_Collaborating Sponsors: _Waze, Amazon AWS
+
 ### 2 VizWit
 
 Data viz platform for multiple open data portals.
 
 **Code**: [github.com/timwis/vizwit](https://github.com/timwis/vizwit)
+
+_Collaborating Cities:_ Philadelphia, Louisville
 
 ---
 
@@ -66,9 +70,15 @@ List of projects that are being reviewed to see if they can be included in OGC.
 
 **Code:** _Soon to be published _
 
+_Collaborating Cities:_ Louisville, San Jose
+
 ### 2 IFTTT for Cities
 
+Automation services for citizens based off existing city APIs and open data.
+
 **Code**: [github.com/LouisvilleMetro/IFTTT-Smart-Louisville](https://github.com/LouisvilleMetro/IFTTT-Smart-Louisville)
+
+_Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/introducing-the-data-access-project)\): Louisville, Tampa, Texas
 
 ### 3 Zotero Metadata Translator
 
