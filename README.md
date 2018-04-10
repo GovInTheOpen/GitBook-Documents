@@ -38,13 +38,13 @@ This is a **curated** list of well **documented** and **reproducible** projects 
 
 ### 1 Waze CCP Processor
 
-Allows traffic teams within cities to use make use of data from Waze's CCP program.
+Allows traffic teams and others within governments to store, analyze, visualize, and take action on Waze's CCP program data.
 
 **Code**: [github.com/LouisvilleMetro/WazeCCPProcessor](https://github.com/LouisvilleMetro/WazeCCPProcessor)
 
 _Collaborating Cities, States, Countries \(over 60\):_ [github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)
 
-_Collaborating Sponsors_: Waze, Amazon AWS
+_Collaborating Sponsors_: Waze, Amazon AWS, Slingshot
 
 ### 2 SpeedUpYourCity
 
