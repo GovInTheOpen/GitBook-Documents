@@ -46,7 +46,19 @@ _Collaborating Cities, States, Countries \(over 60\):_ [github.com/LouisvilleMet
 
 _Collaborating Sponsors_: Waze, Amazon AWS
 
-### 2 Open Data Visualizer
+### 2 SpeedUpYourCity
+
+[Crowd sourced internet speed](http://www.govtech.com/Whats-the-ROI-on-Local-Broadband.html) tests that creates a public map and a open dataset.
+
+**Example Implementation**: [speeduplouisville.com](https://www.speeduplouisville.com/)
+
+**Example raw data and downloads**: [speedupsanjose.com/all-results](https://www.speedupsanjose.com/all-results)
+
+**Code:** _Soon to be published _
+
+_Collaborating Cities:_ Louisville, San Jose
+
+### 3 Open Data Visualizer
 
 Data viz platform for multiple open data portals, using APIs and CSV files for creating visuals, charts, maps for dashboards, embeds, KPIs.
 
@@ -60,27 +72,15 @@ _Collaborating Cities:_ Philadelphia, Louisville
 
 List of projects that are being reviewed to see if they can be included in OGC.
 
-### 1 SpeedUpYourCity
-
-[Crowd sourced internet speed](http://www.govtech.com/Whats-the-ROI-on-Local-Broadband.html) tests that creates a public map and a open dataset.
-
-**Example Implementation**: [speeduplouisville.com](https://www.speeduplouisville.com/)
-
-**Example raw data and downloads**: [speedupsanjose.com/all-results](https://www.speedupsanjose.com/all-results)
-
-**Code:** _Soon to be published _
-
-_Collaborating Cities:_ Louisville, San Jose
-
-### 2 IFTTT for Cities
+### 1 IFTTT for Cities
 
 Automation services for citizens based off existing city APIs and open data.
 
 **Code**: [github.com/LouisvilleMetro/IFTTT-Smart-Louisville](https://github.com/LouisvilleMetro/IFTTT-Smart-Louisville)
 
-_Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/introducing-the-data-access-project)\): Louisville, Tampa, Texas
+_Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/introducing-the-data-access-project)\): Louisville, Tampa, Texas, Edmonton
 
-### 3 Zotero Metadata Translator
+### 2 Zotero Metadata Translator
 
 **Code**: [zotero.org/support/dev/translators](https://www.zotero.org/support/dev/translators)
 
