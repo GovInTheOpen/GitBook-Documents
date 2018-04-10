@@ -46,7 +46,7 @@ _Collaborating Cities, States, Countries \(over 60\):_ [github.com/LouisvilleMet
 
 _Collaborating Sponsors_: Waze, Amazon AWS
 
-### 2 Open Data Visualization
+### 2 Open Data Visualizer
 
 Data viz platform for multiple open data portals, using APIs and CSV files for creating visuals, charts, maps for dashboards, embeds, KPIs.
 
