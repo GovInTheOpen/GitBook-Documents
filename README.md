@@ -42,13 +42,13 @@ Allows traffic teams within cities to use make use of data from Waze's CCP progr
 
 **Code**: [github.com/LouisvilleMetro/WazeCCPProcessor](https://github.com/LouisvilleMetro/WazeCCPProcessor)
 
-_Collaborating Cities:_ [github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)
+_Collaborating Cities, States, Countries \(over 60\):_ [github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)
 
 _Collaborating Sponsors_: Waze, Amazon AWS
 
-### 2 VizWit
+### 2 Open Data Visualization
 
-Data viz platform for multiple open data portals.
+Data viz platform for multiple open data portals, using APIs and CSV files for creating visuals, charts, maps for dashboards, embeds, KPIs.
 
 **Code**: [github.com/timwis/vizwit](https://github.com/timwis/vizwit)
 
