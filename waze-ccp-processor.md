@@ -1,4 +1,4 @@
-# Waze CCP Processor
+# Project: Waze CCP Processor
 
 Allows traffic teams and others within governments to store, analyze, visualize, and take action on Waze's CCP program data.
 
@@ -9,6 +9,8 @@ _Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Br
 * _Sponsors_: Amazon AWS, Slingshot
 * _Promoters_: Waze
 * _Potential Future Collaborators_: Microsoft Azure, Google Cloud
+
+---
 
 
 
