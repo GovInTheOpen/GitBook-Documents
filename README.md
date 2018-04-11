@@ -48,7 +48,7 @@ _Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Br
 * _Promoters_: Waze
 * _Potential Future Collaborators_: Microsoft Azure, Google Cloud
 
- &gt; **See Full Details**
+**See Full Details**
 
 ### 2 SpeedUpYourCity
 
