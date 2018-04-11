@@ -14,7 +14,7 @@ _Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Br
 
 ## Project Road Map
 
-Waze provides government partners access to anonymized data that can be used for traffic, public safety, emergency response, infrastructure, and air pollution use cases. 
+Waze provides government partners access to anonymized data that can be used for traffic, public safety, emergency response, infrastructure, and air pollution use cases.
 
 This road map shows what is needed to create a valuable end-to-end data processor and visualization solutions based on Louisville, KY’s existing use cases.
 
@@ -40,7 +40,7 @@ _Technical:_ Cloudwatch alarm triggers Lambda every 2 minutes to look at the Waz
 
 * Good to get developer buy-in, service integrations
 
-Technical: HTTP endpoint would return GeoJSON file from DB. Parameters include start date/time, end date/time, lat/lon bounding box, Waze categories \(Jam types, Alert types, Irregularities\). Can run through AWS API Gateway or other API service like Kong.
+_Technical_: HTTP endpoint would return GeoJSON file from DB. Parameters include start date/time, end date/time, lat/lon bounding box, Waze categories \(Jam types, Alert types, Irregularities\). Can run through AWS API Gateway or other API service like Kong.
 
 _Examples:_
 
@@ -66,7 +66,7 @@ _Examples:_
 
 * Good to get leadership/mayoral buy-in, business intelligence cases
 
-_Technical: _A open source mapping platform \(OpenStreetMap base layer with Leaflet.js\) that has selectors that can pass XHR data into the API query string and return a clickable GeoJSON overlay of current or past conditions, running serverless to spin up only on demand. Allow JSON data export from map view \(eg, API call\).
+_Technical_: A open source mapping platform \(OpenStreetMap base layer with Leaflet.js\) that has selectors that can pass XHR data into the API query string and return a clickable GeoJSON overlay of current or past conditions, running serverless to spin up only on demand. Allow JSON data export from map view \(eg, API call\).
 
 ### 4\) Traffic Study Tool
 
@@ -78,5 +78,7 @@ _Technical: _A open source mapping platform \(OpenStreetMap base layer with Leaf
 
 * Good to get traffic department, internal gov operations, data analytics buy-in
 
-_Technical: _QuickSight could be used for this \(we welcome other AWS tool recommendations, maybe using Metabase in the cloud\). Louisville currently has a useful working version in Power BI that the traffic department uses that can be recreated in AWS. User selects area of geographic interest, times of day/week, date ranges, direction, and gets a before and after analysis to show effectiveness.
+_Technical_: QuickSight could be used for this \(we welcome other AWS tool recommendations, maybe using Metabase in the cloud\). Louisville currently has a useful working version in Power BI that the traffic department uses that can be recreated in AWS. User selects area of geographic interest, times of day/week, date ranges, direction, and gets a before and after analysis to show effectiveness.
+
+![](/assets/Selection_132.jpg)
 
