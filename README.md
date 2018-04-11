@@ -42,9 +42,13 @@ Allows traffic teams and others within governments to store, analyze, visualize,
 
 **Code**: [github.com/LouisvilleMetro/WazeCCPProcessor](https://github.com/LouisvilleMetro/WazeCCPProcessor)
 
-_Collaborating Cities, States, Countries \(over 60\):_ [github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)
+_Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Brazil,  \([see all 60+ govs](/github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)\)
 
-_Collaborating Sponsors_: Waze, Amazon AWS, Slingshot
+* _Sponsors_: Amazon AWS, Slingshot
+* _Promoters_: Waze
+* _Potential Future Collaborators_: Microsoft Azure, Google Cloud
+
+ &gt; **See Full Details**
 
 ### 2 SpeedUpYourCity
 
