@@ -1,36 +1,24 @@
-# Open Government Coalition
+# Introduction
 
-Welcome to the Open Government Coalition \(OGC\), a network of government agencies working on projects together.
-
----
+Welcome to the Open Government Coalition \(OGC\), a network of government agencies working on open source projects together.
 
 ## Mission Statement
 
 _**Governments pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money.**_
 
-![](/assets/OGC-Web-Banner.png)
+![](.gitbook/assets/ogc-web-banner.png)
 
 ## Key Features and Collaboration Requirements
 
 * _Code_/Programming: _open source_ and publicly developed
-
 * Benefits _multiple_ governments at once
-
 * Can be _easily_ deployed and is well _documented_
-
 * Likely deployed to and integrated with existing city _cloud_ accounts
-
 * May deal with sensitive data or data partnerships
-
 * Pools our limited and specialized internal tech _resources_
-
 * Saves _money_, quicker time-to-live
-
 * No _RFPs_ needed - in house solutions
-
 * Outside organizations can help develop/support/fund/sponsor
-
----
 
 ## Project Portfolio
 
@@ -42,13 +30,13 @@ Allows traffic teams and others within governments to store, analyze, visualize,
 
 **Code**: [github.com/LouisvilleMetro/WazeCCPProcessor](https://github.com/LouisvilleMetro/WazeCCPProcessor)
 
-_Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Brazil,  \([see all 60+ govs](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)\)
+_Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Brazil, \([see all 60+ govs](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)\)
 
 * _Sponsors_: Amazon AWS, Slingshot
 * _Promoters_: Waze
 * _Potential Future Collaborators_: Microsoft Azure, Google Cloud
 
-[**See Full Details**](/waze-ccp-processor.md)
+[**See Full Details**](waze-ccp-processor.md)
 
 ### 2 SpeedUpYourCity
 
@@ -70,8 +58,6 @@ Data viz platform for multiple open data portals, using APIs and CSV files for c
 
 _Collaborating Cities:_ Philadelphia, Louisville
 
----
-
 ## Projects in Review
 
 List of projects that are being reviewed to see if they can be included in OGC.
@@ -88,36 +74,23 @@ _Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/intr
 
 **Code**: [zotero.org/support/dev/translators](https://www.zotero.org/support/dev/translators)
 
----
-
 ## Similar Organizations
 
 * [Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGC.  Many OGC collaborators come from CAN cities.  CAN has a much broader focus and just a few US cities are involved.  OGC should have more cities, states, countries and is focused on code projects.
 * [Code for America](https://www.codeforamerica.org/) - Helped create the OGC by pushing for tech talent and skills inside of government with brigades and open source.  Many OGC participants came from CfA.  Big difference is that OGC may work on sensitive data or internal systems integrations that can't be made public, though CfA can still be part of the efforts.
 
----
-
 ## Connect with OGC
 
 * Slack Channel
-
   * [govintheopen.slack.com](https://govintheopen.slack.com)
-
 * Twitter
-
   * [@GovInTheOpen](https://twitter.com/GovInTheOpen) 
-
 * Organizer
-
   * Michael Schnuerle, Office of Civic Innovation, OPI, Mayor's Office, Louisville Metro, KY. 
   * Email michael.schnuerle at louisvilleky.gov. 
   * Twitter [@LouDataOfficer](https://twitter.com/LouDataOfficer)
 
----
-
 #### More Stodgy Logo, If You Must
 
-## ![](/assets/OGC-Text.png)
-
-
+![](.gitbook/assets/ogc-text.png)
 

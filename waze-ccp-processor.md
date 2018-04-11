@@ -1,16 +1,14 @@
-# Project: Waze CCP Processor
+# Waze CCP Processor
 
 Allows traffic teams and others within governments to store, analyze, visualize, and take action on Waze's CCP program data.
 
 **Code**: [github.com/LouisvilleMetro/WazeCCPProcessor](https://github.com/LouisvilleMetro/WazeCCPProcessor)
 
-_Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Brazil,  \([see all 60+ govs](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)\)
+_Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Brazil, \([see all 60+ govs](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)\)
 
 * _Sponsors_: Amazon AWS, Slingshot
 * _Promoters_: Waze
 * _Potential Future Collaborators_: Microsoft Azure, Google Cloud
-
----
 
 ## Project Road Map
 
@@ -25,7 +23,6 @@ Everything is written in Terraform.io's infrastructure-as-code form for portabil
 [https://github.com/LouisvilleMetro/WazeCCPProcessor/projects/1](https://github.com/LouisvilleMetro/WazeCCPProcessor/projects/1)
 
 * Gets the raw Waze CCP JSON data feed into a relational database.
-
 * Base requirement for Waze data to be useful for governments.
 
 _Technical:_ Cloudwatch alarm triggers Lambda every 2 minutes to look at the Waze endpoint and saves data to S3. Lambda adds record to SQS Queue to process S3 files into Aurora Postgres DB. Alerts and queues for failures and SNS Topics used to allow real-time hooks. DB enriched with extra columns need for analysis.
@@ -35,9 +32,7 @@ _Technical:_ Cloudwatch alarm triggers Lambda every 2 minutes to look at the Waz
 [https://github.com/LouisvilleMetro/WazeCCPProcessor/projects/3](https://github.com/LouisvilleMetro/WazeCCPProcessor/projects/3)
 
 * Allows easy access to chunks of data from the DB
-
 * Proof of concept limited for use of Interactive Map
-
 * Good to get developer buy-in, service integrations
 
 _Technical_: HTTP endpoint would return GeoJSON file from DB. Parameters include start date/time, end date/time, lat/lon bounding box, Waze categories \(Jam types, Alert types, Irregularities\). Can run through AWS API Gateway or other API service like Kong.
@@ -61,9 +56,7 @@ _Examples:_
 [https://github.com/LouisvilleMetro/WazeCCPProcessor/issues/21](https://github.com/LouisvilleMetro/WazeCCPProcessor/issues/21)
 
 * Overlays current snapshot of alerts, jams, irregularities, with filters
-
 * Provides a date/time selector and slider to look back in time
-
 * Good to get leadership/mayoral buy-in, business intelligence cases
 
 _Technical_: A open source mapping platform \(OpenStreetMap base layer with Leaflet.js\) that has selectors that can pass XHR data into the API query string and return a clickable GeoJSON overlay of current or past conditions, running serverless to spin up only on demand. Allow JSON data export from map view \(eg, API call\).
@@ -73,12 +66,10 @@ _Technical_: A open source mapping platform \(OpenStreetMap base layer with Leaf
 [https://github.com/LouisvilleMetro/WazeCCPProcessor/issues/22](https://github.com/LouisvilleMetro/WazeCCPProcessor/issues/22)
 
 * Provides a traffic study replacement tool that allows comparison of a traffic area before and after a change \(signal retiming, road diet, reconfiguration, traffic events\)
-
 * Working tool showing how Waze data can replace studies that can cost $25K - 75K
-
 * Good to get traffic department, internal gov operations, data analytics buy-in
 
 _Technical_: QuickSight could be used for this \(we welcome other AWS tool recommendations, maybe using Metabase in the cloud\). Louisville currently has a useful working version in Power BI that the traffic department uses that can be recreated in AWS. User selects area of geographic interest, times of day/week, date ranges, direction, and gets a before and after analysis to show effectiveness.
 
-![](/assets/Selection_132.jpg)
+![](.gitbook/assets/selection_132.jpg)
 

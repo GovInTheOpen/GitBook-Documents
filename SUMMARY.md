@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Waze CCP Processor](waze-ccp-processor.md)
