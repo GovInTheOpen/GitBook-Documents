@@ -63,6 +63,8 @@ _Examples:_
 
 _Technical_: A open source mapping platform \(OpenStreetMap base layer with Leaflet.js\) that has selectors that can pass XHR data into the API query string and return a clickable GeoJSON overlay of current or past conditions, running serverless to spin up only on demand. Allow JSON data export from map view \(eg, API call\).
 
+Like the Waze Live Map, but with a slider to go back in time, and a filter to show any combination of Alert types and Jam data. ![](/assets/Selection_141.jpg)
+
 ### 4\) Traffic Study Tool
 
 [https://github.com/LouisvilleMetro/WazeCCPProcessor/issues/22](https://github.com/LouisvilleMetro/WazeCCPProcessor/issues/22)
