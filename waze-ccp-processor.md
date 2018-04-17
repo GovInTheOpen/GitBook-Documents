@@ -10,6 +10,8 @@ _Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Br
 * _Promoters_: Waze
 * _Potential Future Collaborators_: Microsoft Azure, Google Cloud
 
+---
+
 ## Project Road Map
 
 Waze provides government partners access to anonymized data that can be used for traffic, public safety, emergency response, infrastructure, and air pollution use cases.

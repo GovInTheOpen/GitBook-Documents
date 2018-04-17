@@ -18,13 +18,15 @@ _**Governments pooling technical talent to collaborate on projects with reproduc
 * Pools our limited and specialized internal tech _resources_
 * Saves _money_, quicker time-to-live
 * No _RFPs_ needed - in house solutions
-* Outside organizations can help develop/support/fund/sponsor
+* Outside organizations can help develop/support/fund/promote/sponsor
+
+---
 
 ## Project Portfolio
 
 This is a **curated** list of well **documented** and **reproducible** projects that improves their discoverability and fosters collaboration.
 
-### 1 Waze CCP Processor
+### 1\) Waze CCP Processor
 
 Allows traffic teams and others within governments to store, analyze, visualize, and take action on Waze's CCP program data.
 
@@ -38,7 +40,7 @@ _Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Br
 
 [**See Full Details**](waze-ccp-processor.md)
 
-### 2 SpeedUpYourCity
+### 2\) SpeedUpYourCity
 
 [Crowd sourced internet speed](http://www.govtech.com/Whats-the-ROI-on-Local-Broadband.html) tests that creates a public map and a open dataset.
 
@@ -50,7 +52,7 @@ _Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Br
 
 _Collaborating Cities:_ Louisville, San Jose
 
-### 3 Open Data Visualizer
+### 3\) Open Data Visualizer
 
 Data viz platform for multiple open data portals, using APIs and CSV files for creating visuals, charts, maps for dashboards, embeds, KPIs.
 
@@ -58,11 +60,13 @@ Data viz platform for multiple open data portals, using APIs and CSV files for c
 
 _Collaborating Cities:_ Philadelphia, Louisville
 
+---
+
 ## Projects in Review
 
 List of projects that are being reviewed to see if they can be included in OGC.
 
-### 1 IFTTT for Cities
+### 1\) IFTTT for Cities
 
 Automation services for citizens based off existing city APIs and open data.
 
@@ -70,14 +74,18 @@ Automation services for citizens based off existing city APIs and open data.
 
 _Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/introducing-the-data-access-project)\): Louisville, Tampa, Texas, Edmonton
 
-### 2 Zotero Metadata Translator
+### 2\) Zotero Metadata Translator
 
 **Code**: [zotero.org/support/dev/translators](https://www.zotero.org/support/dev/translators)
+
+---
 
 ## Similar Organizations
 
 * [Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGC.  Many OGC collaborators come from CAN cities.  CAN has a much broader focus and just a few US cities are involved.  OGC should have more cities, states, countries and is focused on code projects.
 * [Code for America](https://www.codeforamerica.org/) - Helped create the OGC by pushing for tech talent and skills inside of government with brigades and open source.  Many OGC participants came from CfA.  Big difference is that OGC may work on sensitive data or internal systems integrations that can't be made public, though CfA can still be part of the efforts.
+
+---
 
 ## Connect with OGC
 
