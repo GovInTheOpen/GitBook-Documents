@@ -8,7 +8,13 @@ _**Governments pooling technical talent to collaborate on projects with reproduc
 
 ![](.gitbook/assets/ogc-web-banner.png)
 
-## Key Features and Collaboration Requirements
+## Summary
+
+          _**Governments + Open Source + Money/Promotion** from Sponsors** = Useful Cloud Projects for All**_
+
+---
+
+## Features and Requirements
 
 * _Code_/Programming: _open source_ and publicly developed
 * Benefits _multiple_ governments at once
@@ -36,7 +42,7 @@ _Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Br
 
 * _Sponsors_: Amazon AWS, Slingshot
 * _Promoters_: Waze
-* _Potential Future Collaborators_: Microsoft Azure, Google Cloud
+* _Potential Future Collaborators_: Microsoft Azure, Google Cloud, Code for America
 
 [**See Full Details**](waze-ccp-processor.md)
 
