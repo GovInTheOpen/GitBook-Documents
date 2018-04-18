@@ -10,7 +10,7 @@ _**Governments pooling technical talent to collaborate on projects with reproduc
 
 ## Summary
 
-        _** Governments + Open Source + Money/Promotion **from Sponsors** = Useful Cloud Projects for All**_
+_**Governments + Open Source + Money/Promotion** from Sponsors** = Useful Cloud Projects for All**_
 
 ---
 
