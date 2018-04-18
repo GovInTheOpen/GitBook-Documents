@@ -66,7 +66,7 @@ _Collaborating Cities:_ Philadelphia, Louisville
 
 List of projects that are being reviewed to see if they can be included in OGC.
 
-### 1\) IFTTT for Cities
+### - IFTTT for Cities
 
 Automation services for citizens based off existing city APIs and open data.
 
@@ -74,7 +74,7 @@ Automation services for citizens based off existing city APIs and open data.
 
 _Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/introducing-the-data-access-project)\): Louisville, Tampa, Texas, Edmonton
 
-### 2\) Zotero Metadata Translator
+### - Zotero Metadata Translator
 
 **Code**: [zotero.org/support/dev/translators](https://www.zotero.org/support/dev/translators)
 
@@ -93,6 +93,8 @@ _Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/intr
   * [govintheopen.slack.com](https://govintheopen.slack.com)
 * Twitter
   * [@GovInTheOpen](https://twitter.com/GovInTheOpen) 
+* Website
+  * [www.GovInTheOpen.com](https://www.govintheopen.com/)
 * Organizer
   * Michael Schnuerle, Office of Civic Innovation, OPI, Mayor's Office, Louisville Metro, KY. 
   * Email michael.schnuerle at louisvilleky.gov. 
