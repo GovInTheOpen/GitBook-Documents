@@ -106,6 +106,8 @@ _Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/intr
 
 ## Connect with OGC
 
+* Github
+  * [github.com/GovInTheOpen](https://github.com/GovInTheOpen)
 * Slack Channel
   * [govintheopen.slack.com](https://govintheopen.slack.com)
 * Twitter
