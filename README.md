@@ -10,11 +10,11 @@ _**Governments pooling technical talent to collaborate on projects with reproduc
 
 ## Summary
 
-_**Governments + Open Source + Money** from Sponsors** = Useful Projects for All**_
+_**Governments + Open Source + Money** from key sponsors** = Useful Projects for All**_
 
 ---
 
-## Features and Requirements
+## Features and Requirements {#requirements}
 
 * _Code_/Programming: _open source_ and publicly developed
 * Benefits _multiple_ governments at once
@@ -30,7 +30,7 @@ _**Governments + Open Source + Money** from Sponsors** = Useful Projects for All
 
 ## Project Portfolio
 
-This is a **curated** list of well **documented** and **reproducible** projects that improves their discoverability and fosters collaboration.
+This is a **curated** list of well **documented** and **reproducible** projects, which improves their discoverability and fosters collaboration.
 
 ### 1\) Waze CCP Processor
 
@@ -38,13 +38,14 @@ Allows traffic teams and others within governments to store, analyze, visualize,
 
 **Code**: [github.com/LouisvilleMetro/WazeCCPProcessor](https://github.com/LouisvilleMetro/WazeCCPProcessor)
 
-_Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Brazil, \([see all 60+ govs](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)\)
+_Collaborating Governments:_ Louisville, Denver, NYC, Joinville Brazil, \([see all 60+ govs](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)\)
 
 * _Sponsors_: Amazon AWS, Slingshot
 * _Promoters_: Waze
 * _Potential Future Collaborators_: Microsoft Azure, Google Cloud, Code for America
+* _Constraints_: Must be a Waze CCP partner \(signed legal agreement with Waze\)
 
-[**See Full Details**](waze-ccp-processor.md)
+[**See Full Page Details**](waze-ccp-processor.md)
 
 ### 2\) SpeedUpYourCity
 
@@ -54,9 +55,14 @@ _Collaborating Cities, States, Countries:_ Louisville, Denver, NYC, Joinville Br
 
 **Example raw data and downloads**: [speedupsanjose.com/all-results](https://www.speedupsanjose.com/all-results)
 
-**Code:** _Soon to be published _
+**Code:** _Soon to be published once scrubbed and documented _
 
 _Collaborating Cities:_ Louisville, San Jose
+
+* _Sponsors_: TBD
+* _Promoters_: TBD
+* _Potential Future Collaborators_: NDIA, Mozilla
+* _Constraints_: None
 
 ### 3\) Open Data Visualizer
 
@@ -65,6 +71,11 @@ Data viz platform for multiple open data portals, using APIs and CSV files for c
 **Code**: [github.com/timwis/vizwit](https://github.com/timwis/vizwit)
 
 _Collaborating Cities:_ Philadelphia, Louisville
+
+* _Sponsors_: TBD
+* _Promoters_: TBD
+* _Potential Future Collaborators_: CKAN, DKAN, Socrata, Open Data Soft
+* _Constraints_: None
 
 ---
 
