@@ -5,7 +5,7 @@ Steps to make a successful OGC collaboration project:
 1. **Idea**. Have a project idea that can benefit multiple governments \(cities, counties, states, agencies, countries\).
 2. **Open Source.** Post your open source code \(or Readme\) to GitHub.
 3. **Requirements**. Validate that your project aligns with a majority of the OGC [Features and Requirements](/README.md).
-4. **Discuss**. Contact OGC by opening an [Issue](https://github.com/GovInTheOpen/GitBook-Documents/issues) to discuss adding your project.
+4. **Discuss**. Contact OGC by opening an [Issue](https://github.com/GovInTheOpen/Project-Portfolio/issues) to discuss adding your project.
 5. **Promote**. OGC will promote your project and help garner support from govs.
 6. **Lead**. You will lead the project by:
    1. working with govs and citizens to help them code and give them credit
