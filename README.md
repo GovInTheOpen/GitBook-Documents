@@ -79,6 +79,10 @@ _Collaborating Cities:_ Philadelphia, Louisville
 
 ---
 
+* [**Submit your own projects here**](https://github.com/GovInTheOpen/Project-Portfolio)
+
+---
+
 ## Projects in Review
 
 List of projects that are being reviewed to see if they can be included in OGC.
@@ -89,11 +93,27 @@ Automation services for citizens based off existing city APIs and open data.
 
 **Code**: [github.com/LouisvilleMetro/IFTTT-Smart-Louisville](https://github.com/LouisvilleMetro/IFTTT-Smart-Louisville)
 
-_Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/introducing-the-data-access-project)\): Louisville, Tampa, Texas, Edmonton
+* _Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/introducing-the-data-access-project)\): Louisville, Tampa, Texas, Edmonton
+* _Promoter_: IFTTT
+
+### - SQUID - Road Quality through Camera Images
+
+An open source data pipeline and analytics framework for assessing street quality. This approach utilizes the open source Open Street Cam to collect GPS, accelerometer and imagery data to be able to literally see the Ground Truth.
+
+[**Project Submission Page**](https://github.com/GovInTheOpen/Project-Portfolio/issues/2)
+
+**Code**: [github.com/streets-data-collaborative](https://github.com/streets-data-collaborative)
+
+* _Collaborating Govs_: NYC
+* _Promoter_: ARGO Labs
 
 ### - Zotero Metadata Translator
 
 **Code**: [zotero.org/support/dev/translators](https://www.zotero.org/support/dev/translators)
+
+---
+
+* [**Read about how to start an OGC Project**](https://www.govintheopen.com/how-to-run-an-ogc-project.html)
 
 ---
 
