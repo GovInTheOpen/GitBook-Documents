@@ -100,7 +100,7 @@ Automation services for citizens based off existing city APIs and open data.
 
 An open source data pipeline and analytics framework for assessing street quality. This approach utilizes the open source Open Street Cam to collect GPS, accelerometer and imagery data to be able to literally see the Ground Truth.
 
-[**Project Submission Page**](https://github.com/GovInTheOpen/Project-Portfolio/issues/2)
+**Project Submission Page: **[OGC Discussion](https://github.com/GovInTheOpen/Project-Portfolio/issues/2)
 
 **Code**: [github.com/streets-data-collaborative](https://github.com/streets-data-collaborative)
 
