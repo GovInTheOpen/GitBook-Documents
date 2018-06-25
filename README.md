@@ -26,6 +26,8 @@ _**Governments + Open Source + Cloud + Funding** from key sponsors** = Useful Pr
 * No _RFPs_ needed - in house solutions
 * Outside organizations can help develop/support/fund/promote/sponsor
 
+Key factors that make OGC projects **different than other open source projects** are private funding, paying a developer to build and maintain, and using the cloud for ease of replication. 
+
 ---
 
 ## Project Portfolio
@@ -37,6 +39,8 @@ This is a **curated** list of well **documented** and **reproducible** projects,
 Allows traffic teams and others within governments to store, analyze, visualize, and take action on Waze's CCP program data.
 
 **Code**: [github.com/LouisvilleMetro/WazeCCPProcessor](https://github.com/LouisvilleMetro/WazeCCPProcessor)
+
+**Project Submission Page: **[OGC Discussion](https://github.com/GovInTheOpen/Project-Portfolio/issues/1)
 
 _Collaborating Governments:_ Louisville, Denver, NYC, Joinville Brazil, \([see all 60+ govs](https://github.com/LouisvilleMetro/WazeCCPProcessor/wiki/Waze-CCP-Collaborative-Processor)\)
 
@@ -51,11 +55,13 @@ _Collaborating Governments:_ Louisville, Denver, NYC, Joinville Brazil, \([see a
 
 [Crowd sourced internet speed](http://www.govtech.com/Whats-the-ROI-on-Local-Broadband.html) tests that creates a public map and a open dataset.
 
-**Example Implementation**: [speeduplouisville.com](https://www.speeduplouisville.com/)
+**Example implementation**: [speeduplouisville.com](https://www.speeduplouisville.com/)
 
 **Example raw data and downloads**: [speedupsanjose.com/all-results](https://www.speedupsanjose.com/all-results)
 
-**Code:** _Soon to be published once scrubbed and documented _
+**Code:** [github.com/louisvillemetro-innovation/SpeedUpYourCity_ _](https://github.com/louisvillemetro-innovation/SpeedUpYourCity)
+
+**Project Submission Page: **[OGC Discussion](https://github.com/GovInTheOpen/Project-Portfolio/issues/4)
 
 _Collaborating Cities:_ Louisville, San Jose
 
@@ -92,6 +98,8 @@ List of projects that are being reviewed to see if they can be included in OGC.
 Automation services for citizens based off existing city APIs and open data.
 
 **Code**: [github.com/LouisvilleMetro/IFTTT-Smart-Louisville](https://github.com/LouisvilleMetro/IFTTT-Smart-Louisville)
+
+**Project Submission Page: **[OGC Discussion](https://github.com/GovInTheOpen/Project-Portfolio/issues/3)
 
 * _Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/introducing-the-data-access-project)\): Louisville, Tampa, Texas, Edmonton
 * _Promoter_: IFTTT
