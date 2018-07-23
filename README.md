@@ -26,7 +26,7 @@ _**Governments + Open Source + Cloud + Funding** from key sponsors** = Useful Pr
 * No _RFPs_ needed - in house solutions
 * Outside organizations can help develop/support/fund/promote/sponsor
 
-Key factors that make OGC projects **different than other open source projects** are private funding, paying a developer to build and maintain, and using the cloud for ease of replication. 
+Key factors that make OGC projects **different than other open source projects** are private funding, paying a developer to build and maintain, and using the cloud for ease of replication.
 
 ---
 
@@ -130,6 +130,14 @@ An open source data pipeline and analytics framework for assessing street qualit
 * [Harvard Civic Analytics Network](http://datasmart.ash.harvard.edu/news/article/civic-analytics-network-members-881) - Inspiration for OGC.  Many OGC collaborators come from CAN cities.  CAN has a much broader focus and just a few US cities are involved.  OGC should have more cities, states, countries and is focused on code projects.
 * [Code for America](https://www.codeforamerica.org/) - Helped create the OGC by pushing for tech talent and skills inside of government with brigades and open source.  Many OGC participants came from CfA.  Big difference is that OGC may work on sensitive data or internal systems integrations that can't be made public, though CfA can still be part of the efforts.
 * [Code.gov](https://code.gov/#/) - At the federal level, but it leverages the power of code sharing and collaboration to help the US Government cut down on duplicative software development and save millions of taxpayer dollars for the American people.
+
+---
+
+## Press
+
+* [How to Create Open Source Projects and Get Private Companies to Pay for It](https://datasmart.ash.harvard.edu/news/article/how-create-open-source-projects-and-get-private-companies-pay-it-0) - **Ash Center at Harvard Kennedy School - Data-Smart City Solutions** -  _“Cities are able to build products they need without having to pay for it, and once something is built, any other city can use it at no cost.”_
+* [A New Open-Source Framework for Government Projects](https://www.routefifty.com/tech-data/2018/05/louisville-waze-data-open-source/148568/) - **Route Fifty** - _"...this is a new thing: providing the entire infrastructure—through a well-documented process from a third-party company—to build out an open-source tool that’s immediately useful to cities collaborating on coding and deployment."_
+* [Open Source Traffic Management](https://gcn.com/articles/2018/06/18/louisville-open-source-traffic-data.aspx) - **GCN Tech** - _"By working in the open and developing this collaboratively, we’ve been able to develop such a broad range of support from all of these governments that would be interested in the final product."_
 
 ---
 
