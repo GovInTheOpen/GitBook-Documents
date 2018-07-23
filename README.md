@@ -115,9 +115,7 @@ An open source data pipeline and analytics framework for assessing street qualit
 * _Collaborating Govs_: NYC
 * _Promoter_: ARGO Labs
 
-### - Zotero Metadata Translator
 
-**Code**: [zotero.org/support/dev/translators](https://www.zotero.org/support/dev/translators)
 
 ---
 
