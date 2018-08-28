@@ -115,8 +115,6 @@ An open source data pipeline and analytics framework for assessing street qualit
 * _Collaborating Govs_: NYC
 * _Promoter_: ARGO Labs
 
-
-
 ---
 
 * [**Read about how to start an OGC Project**](https://www.govintheopen.com/how-to-run-an-ogc-project.html)
@@ -154,7 +152,7 @@ An open source data pipeline and analytics framework for assessing street qualit
   * Email michael.schnuerle at louisvilleky.gov. 
   * Twitter [@LouDataOfficer](https://twitter.com/LouDataOfficer)
 
-#### More Stodgy Logo, If You Must
+#### 
 
-![](.gitbook/assets/ogc-text.png)
+
 

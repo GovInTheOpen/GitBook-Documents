@@ -42,7 +42,7 @@ What, it's a sailboat in a sunset, how does that relate to city collaboration?? 
 
 **Yes**: Animals? \(squirrel?\), Nature, Outside, People, Mountain, Journey, Ship
 
-**Ideas**: For ship: all hands on Deck, Mast, flag, masthead, sailing seas, forecastle, crew
+**Ideas**: For ship: all hands on Deck, Mast, flag, masthead, sailing seas, forecastle, crew. Friendship!
 
 #### Logo and Text Result
 
@@ -54,7 +54,7 @@ Originally I had a version where the sails were on backwards - the jib was over 
 
 The OGC letters are custom made, inspired by Century Gothic \(which you see on the Open Government Coalition logo text on the home page\). Had a version where the O G and C overlapped each other with breaks and over/underpasses, but didn't have time to refine that idea enough.
 
-![](.gitbook/assets/ogc-text-logo-white.jpg)
+
 
 ![](.gitbook/assets/ogc-islandcrop.png)
 
