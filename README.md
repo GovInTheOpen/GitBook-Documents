@@ -51,9 +51,9 @@ _Collaborating Governments:_ Louisville, Denver, NYC, Joinville Brazil, \([see a
 
 [**See Full Page Details**](waze-ccp-processor.md)
 
-### 2\) SpeedUpYourCity
+### 2\) SpeedUp USA
 
-[Crowd sourced internet speed](http://www.govtech.com/Whats-the-ROI-on-Local-Broadband.html) tests that creates a public map and a open dataset.
+[Crowd sourced internet speed](http://www.govtech.com/Whats-the-ROI-on-Local-Broadband.html) tests that creates a nation-wide public broadband map better than anything that current exists for digital inclusion efforts.
 
 **Example implementation**: [speeduplouisville.com](https://www.speeduplouisville.com/)
 
@@ -65,23 +65,21 @@ _Collaborating Governments:_ Louisville, Denver, NYC, Joinville Brazil, \([see a
 
 _Collaborating Cities:_ Louisville, San Jose
 
-* _Sponsors_: TBD
-* _Promoters_: TBD
-* _Potential Future Collaborators_: NDIA, Mozilla
+* _Potential_ _Sponsors_: Merit.edu
+* _Promoters_: NDIA
+* _Potential Future Collaborators_: Mozilla, Census.gov, Mlab, ISPs
 * _Constraints_: None
 
-### 3\) Open Data Visualizer
+### 3\) IFTTT for Cities
 
-Data viz platform for multiple open data portals, using APIs and CSV files for creating visuals, charts, maps for dashboards, embeds, KPIs.
+Customized delivery of services and information for residents based off existing city open data platforms and metadata standards.
 
-**Code**: [github.com/timwis/vizwit](https://github.com/timwis/vizwit)
+**Code**: [github.com/LouisvilleMetro/IFTTT-Smart-Louisville](https://github.com/LouisvilleMetro/IFTTT-Smart-Louisville)
 
-_Collaborating Cities:_ Philadelphia, Louisville
+**Project Submission Page: **[OGC Discussion](https://github.com/GovInTheOpen/Project-Portfolio/issues/3)
 
-* _Sponsors_: TBD
-* _Promoters_: TBD
-* _Potential Future Collaborators_: CKAN, DKAN, Socrata, Open Data Soft
-* _Constraints_: None
+* _Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/introducing-the-data-access-project)\): Louisville, Tampa, Texas, Edmonto
+* _Promoter/Builder_: IFTTT
 
 ---
 
@@ -93,17 +91,6 @@ _Collaborating Cities:_ Philadelphia, Louisville
 
 List of projects that are being reviewed to see if they can be included in OGC.
 
-### - IFTTT for Cities
-
-Automation services for citizens based off existing city APIs and open data.
-
-**Code**: [github.com/LouisvilleMetro/IFTTT-Smart-Louisville](https://github.com/LouisvilleMetro/IFTTT-Smart-Louisville)
-
-**Project Submission Page: **[OGC Discussion](https://github.com/GovInTheOpen/Project-Portfolio/issues/3)
-
-* _Collaborating Govs _\([Data Access Project](https://ifttt.com/blog/2017/06/introducing-the-data-access-project)\): Louisville, Tampa, Texas, Edmonton
-* _Promoter_: IFTTT
-
 ### - SQUID - Road Quality through Camera Images
 
 An open source data pipeline and analytics framework for assessing street quality. This approach utilizes the open source Open Street Cam to collect GPS, accelerometer and imagery data to be able to literally see the Ground Truth.
@@ -114,6 +101,19 @@ An open source data pipeline and analytics framework for assessing street qualit
 
 * _Collaborating Govs_: NYC
 * _Promoter_: ARGO Labs
+
+### - Open Data Visualizer
+
+Data viz platform for multiple open data portals, using APIs and CSV files for creating visuals, charts, maps for dashboards, embeds, KPIs.
+
+**Code**: [github.com/timwis/vizwit](https://github.com/timwis/vizwit)
+
+_Collaborating Cities:_ Philadelphia, Louisville
+
+* _Sponsors_: TBD
+* _Promoters_: TBD
+* _Potential Future Collaborators_: CKAN, DKAN, Socrata, Open Data Soft
+* _Constraints_: None
 
 ---
 
