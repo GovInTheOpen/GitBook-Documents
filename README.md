@@ -34,7 +34,7 @@ Key factors that make OGC projects **different than other open source projects**
 
 This is a **curated** list of well **documented** and **reproducible** projects, which improves their discoverability and fosters collaboration.
 
-### 1\) Waze CCP Processor
+### 1\) Waze WARP - CCP Data Tools
 
 Allows traffic teams and others within governments to store, analyze, visualize, and take action on Waze's CCP program data.
 
@@ -51,7 +51,7 @@ _Collaborating Governments:_ Louisville, Denver, NYC, Joinville Brazil, \([see a
 
 [**See Full Page Details**](waze-ccp-processor.md)
 
-### 2\) SpeedUp USA
+### 2\) SpeedUp USA - City Broadband Map
 
 [Crowd sourced internet speed](http://www.govtech.com/Whats-the-ROI-on-Local-Broadband.html) tests that creates a nation-wide public broadband map better than anything that current exists for digital inclusion efforts.
 
@@ -70,7 +70,7 @@ _Collaborating Cities:_ Louisville, San Jose
 * _Potential Future Collaborators_: Mozilla, Census.gov, Mlab, ISPs
 * _Constraints_: None
 
-### 3\) IFTTT for Cities
+### 3\) IFTTT for Cities - Alerts for Open Data
 
 Customized delivery of services and information for residents based off existing city open data platforms and metadata standards.
 
